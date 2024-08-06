@@ -1,4 +1,4 @@
-Hi! My name is Jonathan Toker 😄
+Hi! My name is Yonatan Toker 😄
 ========================================================================================================================================
 
 🌍  I am a Full-Stack Developer based in Israel.
